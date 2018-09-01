@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  margin: auto;
+}
+
+.outer {
+  display: table;
+  width: 100%;
+  height: inherit;
+}
+
+.inner {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.centered {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
