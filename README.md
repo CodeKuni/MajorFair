@@ -10,11 +10,11 @@
 
 사용된 기술 및 라이브러리
 -----------------
-JSP 
+JSP    
 MD Bootstrap  
 javascript  
 jquery  
-jquery-ui 
+jquery-ui    
 json  
 kakao plus friends auto reply api 
 
